@@ -58,6 +58,6 @@ while True:
     
     file = open(f"{date}.txt","a")#'a' is makes an addition
 
-    file.write(f"{application}={password} \n")#app name + password
+    file.write(f"{date}\n{application}={password} \n")#app name + password
 
     file.close() #if program closed file writting stoped
