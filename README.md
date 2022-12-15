@@ -7,7 +7,7 @@
 
 # Update Idea
 - Rescue mod
-# HOW DOES THİS PROGRAM WORK?
+# HOW DOES THIS PROGRAM WORK?
 
 The program will ask you for the application name and how many 
 digits password you want. The program generates as many password digits as you want.
