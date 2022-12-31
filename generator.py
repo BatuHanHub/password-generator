@@ -18,7 +18,7 @@ print("""
 
 Password Generator, version 2.0 (x86_x64)
 Licence GPLv3+ : GNU GPL version 3 <https://www.gnu.org/licenses/gpl-3.0.html>
-copyright (C) 2022 BatuHanHub 
+copyright (C) 2023 BatuHanHub 
 
 This is free software; You are free to modify and redistribute it.
 NO WARRANTY to the fullest extent permitted by law.\n""")
